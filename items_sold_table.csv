@@ -1,0 +1,14 @@
+﻿item_id,title,price,buyer_id
+1,table,90,1
+2,speakers,360,1
+3,tv,400,2
+1,table,90,3
+2,speakers,360,3
+3,tv,400,3
+4,couch,1000,4
+1,table,90,4
+2,speakers,360,4
+3,tv,400,4
+5,car,25000,4
+1,table,90,4
+1,table,90,5
